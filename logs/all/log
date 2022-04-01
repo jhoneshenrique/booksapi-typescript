@@ -1,0 +1,175 @@
+2022-03-24:10:54:12:54 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:10:54:57:54 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-24:10:54:57:54 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:10:55:08:55 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-24:10:55:08:55 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:10:55:27:55 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-24:10:55:27:55 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:10:55:33:55 [32minfo[39m [32mErro ao conectar![39m 
+2022-03-24:10:55:33:55 [32minfo[39m [32mErro MongoServerError: bad auth : Authentication failed.[39m 
+2022-03-24:10:55:33:55 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:10:55:51:55 [31merror[39m [31mErro ao conectar![39m 
+2022-03-24:10:55:51:55 [31merror[39m [31mErro MongoServerError: bad auth : Authentication failed.[39m 
+2022-03-24:10:55:51:55 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:10:56:02:56 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-24:10:56:02:56 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:11:19:58:19 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-24:11:19:58:19 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-24:11:20:06:20 [35mhttp[39m [35mGET /api 13 - 4.328 ms[39m
+[35m[39m 
+2022-03-24:12:21:31:21 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-24:12:21:31:21 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:10:13:50:13 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:10:13:50:13 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:10:42:10:42 [35mhttp[39m [35mPOST /api/movie 149 - 3.625 ms[39m
+[35m[39m 
+2022-03-25:10:47:45:47 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:10:47:45:47 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:10:47:53:47 [35mhttp[39m [35mPOST /api/movie 120 - 45.818 ms[39m
+[35m[39m 
+2022-03-25:10:51:13:51 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:10:51:13:51 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:10:53:24:53 [35mhttp[39m [35mGET /api 13 - 4.285 ms[39m
+[35m[39m 
+2022-03-25:10:57:00:57 [35mhttp[39m [35mPOST /api/movie 120 - 41.198 ms[39m
+[35m[39m 
+2022-03-25:10:59:53:59 [35mhttp[39m [35mPOST /api/movie 120 - 43.142 ms[39m
+[35m[39m 
+2022-03-25:11:07:19:07 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:11:07:19:07 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:11:07:32:07 [35mhttp[39m [35mGET /api/movie 148 - 3.818 ms[39m
+[35m[39m 
+2022-03-25:11:07:47:07 [35mhttp[39m [35mPOST /api/movie 120 - 50.932 ms[39m
+[35m[39m 
+2022-03-25:11:10:57:10 [35mhttp[39m [35mPOST /api/movie 120 - 23.411 ms[39m
+[35m[39m 
+2022-03-25:11:13:26:13 [35mhttp[39m [35mPOST /api/movie 120 - 28.975 ms[39m
+[35m[39m 
+2022-03-25:11:15:36:15 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:11:15:36:15 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:11:19:30:19 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:11:19:30:19 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:11:24:21:24 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:11:24:21:24 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:11:24:43:24 [35mhttp[39m [35mGET /api/book 147 - 3.861 ms[39m
+[35m[39m 
+2022-03-25:11:24:57:24 [35mhttp[39m [35mPOST /api/book 120 - 80.384 ms[39m
+[35m[39m 
+2022-03-25:11:29:43:29 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:11:29:43:29 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:11:29:56:29 [35mhttp[39m [35mPOST /api/book 152 - 48.305 ms[39m
+[35m[39m 
+2022-03-25:11:34:20:34 [35mhttp[39m [35mPOST /api/book 262 - 29.502 ms[39m
+[35m[39m 
+2022-03-25:12:34:33:34 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-25:12:34:33:34 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-25:12:34:52:34 [35mhttp[39m [35mPOST /api/book 56 - 12.082 ms[39m
+[35m[39m 
+2022-03-25:12:35:01:35 [35mhttp[39m [35mPOST /api/book 56 - 2.957 ms[39m
+[35m[39m 
+2022-03-25:12:35:19:35 [35mhttp[39m [35mPOST /api/book 180 - 2.367 ms[39m
+[35m[39m 
+2022-03-25:12:35:36:35 [35mhttp[39m [35mPOST /api/book 225 - 1.714 ms[39m
+[35m[39m 
+2022-03-25:12:35:43:35 [35mhttp[39m [35mPOST /api/book 270 - 1.740 ms[39m
+[35m[39m 
+2022-03-27:10:56:12:56 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:10:56:12:56 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:10:56:23:56 [35mhttp[39m [35mGET /book/623dd2ece34797ff5fadba89 168 - 3.760 ms[39m
+[35m[39m 
+2022-03-27:10:56:49:56 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:10:56:49:56 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:10:56:53:56 [35mhttp[39m [35mGET /book/623dd2ece34797ff5fadba89 168 - 3.224 ms[39m
+[35m[39m 
+2022-03-27:10:58:19:58 [35mhttp[39m [35mPOST /api/movie 149 - 1.255 ms[39m
+[35m[39m 
+2022-03-27:10:58:31:58 [35mhttp[39m [35mGET /api 13 - 3.308 ms[39m
+[35m[39m 
+2022-03-27:10:58:51:58 [35mhttp[39m [35mGET /api/book/623dd2ece34797ff5fadba89 262 - 38.095 ms[39m
+[35m[39m 
+2022-03-27:11:05:09:05 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:05:09:05 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:05:14:05 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:05:14:05 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:06:16:06 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:06:16:06 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:06:26:06 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:06:26:06 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:06:39:06 [35mhttp[39m [35mGET /api/book 1264 - 42.975 ms[39m
+[35m[39m 
+2022-03-27:11:10:13:10 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:10:13:10 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:10:28:10 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:10:28:10 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:10:45:10 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:10:45:10 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:12:27:12 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:12:27:12 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:13:06:13 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:13:06:13 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:13:32:13 [35mhttp[39m [35mGET /api/book/623dc8098762c97ae749ac56 120 - 41.963 ms[39m
+[35m[39m 
+2022-03-27:11:13:38:13 [35mhttp[39m [35mDELETE /api/book/623dc8098762c97ae749ac56 36 - 54.638 ms[39m
+[35m[39m 
+2022-03-27:11:13:45:13 [35mhttp[39m [35mGET /api/book/623dc8098762c97ae749ac56 33 - 22.216 ms[39m
+[35m[39m 
+2022-03-27:11:20:07:20 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:20:07:20 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:21:42:21 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:21:42:21 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:21:50:21 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:21:50:21 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:22:17:22 [35mhttp[39m [35mGET /api/book 1143 - 44.327 ms[39m
+[35m[39m 
+2022-03-27:11:22:36:22 [35mhttp[39m [35mGET /api/book/623dd2ece34797ff5fadba89 262 - 22.914 ms[39m
+[35m[39m 
+2022-03-27:11:24:04:24 [35mhttp[39m [35mPUT /api/book/ - - - ms[39m
+[35m[39m 
+2022-03-27:11:24:31:24 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:24:31:24 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:25:09:25 [35mhttp[39m [35mPUT /api/book/623dd2ece34797ff5fadba89 - - - ms[39m
+[35m[39m 
+2022-03-27:11:27:03:27 [35mhttp[39m [35mPUT /api/book/623dd2ece34797ff5fadba89 - - - ms[39m
+[35m[39m 
+2022-03-27:11:29:31:29 [35mhttp[39m [35mGET /api/book/623dd2ece34797ff5fadba89 262 - 36.714 ms[39m
+[35m[39m 
+2022-03-27:11:30:06:30 [35mhttp[39m [35mPUT /api/book/623dd2ece34797ff5fadba89 - - - ms[39m
+[35m[39m 
+2022-03-27:11:33:17:33 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:33:17:33 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:33:26:33 [35mhttp[39m [35mPUT /api/book/623dd2ece34797ff5fadba89 172 - 4.052 ms[39m
+[35m[39m 
+2022-03-27:11:34:34:34 [35mhttp[39m [35mPUT /api/book/623dd2ece34797ff5fadba89 172 - 0.985 ms[39m
+[35m[39m 
+2022-03-27:11:34:58:34 [35mhttp[39m [35mPATCH /api/book/623dd2ece34797ff5fadba89 - - - ms[39m
+[35m[39m 
+2022-03-27:11:35:22:35 [35mhttp[39m [35mPATCH /api/book/623dd2ece34797ff5fadba89 - - - ms[39m
+[35m[39m 
+2022-03-27:11:36:38:36 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:36:38:36 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:36:48:36 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:36:48:36 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:36:58:36 [35mhttp[39m [35mGET /api/book/623dd2ece34797ff5fadba89 262 - 37.939 ms[39m
+[35m[39m 
+2022-03-27:11:37:54:37 [35mhttp[39m [35mPOST /api/book 250 - 46.341 ms[39m
+[35m[39m 
+2022-03-27:11:38:55:38 [35mhttp[39m [35mPATCH /api/book/624076c2a07bb20dada02bc1 - - - ms[39m
+[35m[39m 
+2022-03-27:11:39:33:39 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:39:33:39 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:39:59:39 [35mhttp[39m [35mPATCH /api/book/624076c2a07bb20dada02bc1 - - - ms[39m
+[35m[39m 
+2022-03-27:11:40:15:40 [35mhttp[39m [35mGET /api/book/624076c2a07bb20dada02bc1 250 - 34.751 ms[39m
+[35m[39m 
+2022-03-27:11:40:44:40 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:40:44:40 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:41:10:41 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:41:10:41 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:42:21:42 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:42:21:42 [32minfo[39m [32mServidor Rodando na porta 3000[39m 
+2022-03-27:11:42:44:42 [35mhttp[39m [35mPATCH /api/book/624076c2a07bb20dada02bc1 56 - 12.427 ms[39m
+[35m[39m 
+2022-03-27:11:42:53:42 [35mhttp[39m [35mPATCH /api/book/624076c2a07bb20dada02bc1 139 - 64.321 ms[39m
+[35m[39m 
+2022-03-27:11:46:38:46 [32minfo[39m [32mConectou ao banco![39m 
+2022-03-27:11:46:38:46 [32minfo[39m [32mServidor Rodando na porta 3000[39m 

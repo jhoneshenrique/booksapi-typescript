@@ -1,0 +1,2 @@
+2022-03-24:10:55:51:55 [31merror[39m [31mErro ao conectar![39m 
+2022-03-24:10:55:51:55 [31merror[39m [31mErro MongoServerError: bad auth : Authentication failed.[39m 
